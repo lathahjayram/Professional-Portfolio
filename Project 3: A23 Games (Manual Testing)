@@ -22,7 +22,7 @@ Challenges and Solutions
 Ensuring Gameplay Fairness: Implemented rigorous testing strategies to validate game logic and fairness, especially in competitive and skill-based games.
 Multi-Platform Compatibility: Addressed challenges related to delivering a uniform gaming experience across different platforms through extensive compatibility testing and close collaboration with the development team for necessary adjustments.
 
-Tools Used
+Tools
 JIRA: For effective bug tracking and project management.
 Confluence: For comprehensive documentation of test cases, findings, and collaboration with the team.
 Device Emulators and Real Devices: Utilized a combination of emulators and real devices to ensure thorough coverage of testing scenarios across different platforms.
