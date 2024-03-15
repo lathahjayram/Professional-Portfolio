@@ -1,8 +1,8 @@
 # Professional-Portfolio
-Welcome to my Software Testing Portfolio!
+##Welcome to my Software Testing Portfolio!
 This repository serves as a comprehensive showcase of my professional journey, methodologies, and accomplishments in the realm of manual software testing. Through detailed documentation, project overviews, and case studies, I aim to provide insights into my approach to quality assurance, problem-solving skills, and dedication to ensuring software reliability and user satisfaction.
 
-**Latha H J** - A Software Test Engineer with 2.5 years of experience specializing in manual testing across various domains including Gaming, Media and entertainment. My expertise encompasses a wide range of testing types, including functional, regression, smoke, sanity, and user acceptance testing (UAT). I am passionate about enhancing user experiences through meticulous problem identification and solution validation.
+**Latha H J** - I'm a Software Test Engineer with 2.5 years of experience specializing in manual testing across various domains including Gaming, Media and entertainment. My expertise encompasses a wide range of testing types, including functional, regression, smoke, sanity, and user acceptance testing (UAT). I am passionate about enhancing user experiences through meticulous problem identification and solution validation.
 
 
 **Testing Types:** Proficient in conducting comprehensive manual testing types, including Functional, Non-Functional, Regression, Sanity, Smoke, and UAT.
